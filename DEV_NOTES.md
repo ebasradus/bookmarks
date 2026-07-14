@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-15
 - Fixed minor edge case in input handling
+
+## 2026-07-15
+- Ran linter, applied auto-fixes
+- Added CONTRIBUTING.md stub
