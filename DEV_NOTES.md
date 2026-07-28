@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-15
 - Ran linter, applied auto-fixes
 - Added CONTRIBUTING.md stub
+
+## 2026-07-29
+- Resolved deprecation warnings
