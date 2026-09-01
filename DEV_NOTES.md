@@ -28,3 +28,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-02
 - Ran linter, applied auto-fixes
 - Updated license year
+
+## 2026-09-02
+- Reorganised test fixtures
+- Added healthcheck endpoint stub
