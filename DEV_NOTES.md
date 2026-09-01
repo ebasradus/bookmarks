@@ -24,3 +24,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-29
 - Resolved deprecation warnings
+
+## 2026-09-02
+- Ran linter, applied auto-fixes
+- Updated license year
