@@ -32,3 +32,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-02
 - Reorganised test fixtures
 - Added healthcheck endpoint stub
+
+## 2026-09-02
+- Fixed off-by-one error in loop
+- Tidied up project structure
+- Cross-checked behaviour against spec
