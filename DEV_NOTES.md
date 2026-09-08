@@ -42,3 +42,6 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Reviewed codebase, identified areas for improvement
 - Updated CI cache strategy
+
+## 2026-09-09
+- Cross-checked behaviour against spec
