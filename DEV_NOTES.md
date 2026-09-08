@@ -37,3 +37,8 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Tidied up project structure
 - Cross-checked behaviour against spec
+
+## 2026-09-09
+- Documented config options
+- Reviewed codebase, identified areas for improvement
+- Updated CI cache strategy
