@@ -45,3 +45,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-09
 - Cross-checked behaviour against spec
+
+## 2026-09-09
+- Checked for memory leaks in long-running path
+- Addressed feedback from self code review
+- Updated CI cache strategy
