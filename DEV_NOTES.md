@@ -73,3 +73,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-21
 - Removed unused variable declarations
 - Investigated performance bottleneck, noted findings
+
+## 2026-10-21
+- Verified compatibility with latest runtime version
+- Ran linter, applied auto-fixes
+- Added basic usage examples to README
