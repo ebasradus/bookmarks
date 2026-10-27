@@ -78,3 +78,8 @@ Personal development log — notes, findings, and ongoing work.
 - Verified compatibility with latest runtime version
 - Ran linter, applied auto-fixes
 - Added basic usage examples to README
+
+## 2026-10-28
+- Cleaned up old debug logs
+- Verified compatibility with latest runtime version
+- Pinned dependency versions for reproducibility
