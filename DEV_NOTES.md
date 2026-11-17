@@ -96,3 +96,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-18
 - Investigated performance bottleneck, noted findings
 - Verified compatibility with latest runtime version
+
+## 2026-11-18
+- Added healthcheck endpoint stub
